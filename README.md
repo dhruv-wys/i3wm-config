@@ -28,7 +28,7 @@ Here are some screenshots of the uploaded dotfiles:
 ### Installation 
 
 - **1. For an EndeavourOS i3 installation**
-  Download and extract config folders to your home (overwrite if asked), 'run yay -S picom fastfetch neovim kitty rofi scrot open nwg-look', apply the Material-Black-Lavender-Aero GTK theme, then restart your session.
+  Download and extract config folders to your home (overwrite if asked), ```run yay -S picom fastfetch neovim kitty rofi scrot open [nwg-look](https://github.com/nwg-piotr/nwg-look)```, apply the Material-Black-Lavender-Aero GTK theme, then restart your session.
 
 - **2. Other (for Arch-based distros)**
-  Run 'yay -S i3 picom fastfetch neovim kitty rofi scrot polkit-gnome nwg-look', copy config files to your home (overwrite if asked), apply the GTK theme in nwg-look, then restart your session.
+  Run ```yay -S i3 picom fastfetch neovim kitty rofi scrot polkit-gnome nwg-look```, copy config files to your home (overwrite if asked), apply the GTK theme in nwg-look, then restart your session.

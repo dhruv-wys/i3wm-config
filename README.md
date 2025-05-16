@@ -36,5 +36,3 @@ Here are some screenshots of the uploaded dotfiles:
 
 ### Thank you 
 [ty](wallpapers/4.png)
-<img src="images/logo.png" width="200" height="100" />
-

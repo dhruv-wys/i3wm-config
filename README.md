@@ -4,6 +4,7 @@ Heyy! Welcome to my github page.
 These are my dotfiles for i3. This is still a work in progress. I'm fairly new to both i3wm and GitHub, so if you spot something that can be improved or fixed, feel free to open an issue or suggest a change!
 
 I'm using this on EndeavourOS, if it matters.
+
 Note: My pc cannot handle blur so I'm using transparency effects.
 
 #### Dependencies

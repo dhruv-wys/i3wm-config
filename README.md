@@ -35,5 +35,6 @@ Here are some screenshots of the uploaded dotfiles:
   Run `yay -S i3 picom fastfetch neovim kitty rofi scrot polkit-gnome nwg-look`, copy config files to your home (overwrite if asked), apply the GTK theme in nwg-look, then restart your session.
 
 ### Thank you 
-<img src="wallpaper/4.png" alt="Description" width="300" height="200"/>
-![ty](wallpapers/4.png)
+[ty](wallpapers/4.png)
+<img src="images/logo.png" width="200" height="100" />
+
